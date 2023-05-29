@@ -2,7 +2,7 @@
 
 <https://scrapeops.io/python-scrapy-playbook/>
 
-<https://scrapy-docs-ja.readthedocs.io/ja/latest/index.html>
+[Scrapy Docs](https://scrapy-docs-ja.readthedocs.io/ja/latest/index.html)
 
 ---
 
